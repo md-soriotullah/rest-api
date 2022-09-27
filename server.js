@@ -18,13 +18,3 @@ app.listen(PORT, () => {
     console.log(`server is running on port ${PORT}`.bgGreen.black);
 });
 
-
-
-
-
-// module exports
-// module.exports = {
-//     dotenv,
-//     express,
-//     colors
-// }
